@@ -1,5 +1,6 @@
 # EMS
 Semester long project for Software Quality 2
+![alt tag](https://github.com/Kevinljh/EmployeeManagementSystem_PHP/blob/master/ems.png)
 
 ## Features to show Demo Day
 ### User Experience / User Interface
